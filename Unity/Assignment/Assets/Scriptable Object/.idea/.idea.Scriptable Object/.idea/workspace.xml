@@ -108,7 +108,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="205" />
     <option name="y" value="120" />
     <option name="width" value="1093" />
@@ -172,12 +172,12 @@
       <option name="presentableId" value="Default" />
       <updated>1537822330104</updated>
       <workItem from="1537822332114" duration="2351000" />
-      <workItem from="1537994635941" duration="3232000" />
+      <workItem from="1537994635941" duration="3482000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5583000" />
+    <option name="totallyTimeSpent" value="5833000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
