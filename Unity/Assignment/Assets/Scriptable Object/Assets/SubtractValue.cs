@@ -8,6 +8,6 @@ public class SubtractValue : ScriptableObject
 	
 	public void LessValue (FloatData data)
 	{
-		data.Value -= data.Value;
+		data.Value -= Data.Value;
 	}
 }
