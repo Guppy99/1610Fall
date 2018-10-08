@@ -7,9 +7,11 @@
       <e p="Assets" t="Include">
         <e p="AddValue.cs" t="Include" />
         <e p="CharacterMover.cs" t="Include" />
+        <e p="DestroyObject.cs" t="Include" />
         <e p="DivideValue.cs" t="Include" />
         <e p="FloatData.cs" t="Include" />
         <e p="IfStatement.cs" t="Include" />
+        <e p="Instancing.cs" t="Include" />
         <e p="MouseEventBehavior.cs" t="Include" />
         <e p="MultiplyValue.cs" t="Include" />
         <e p="NameID.cs" t="Include" />
