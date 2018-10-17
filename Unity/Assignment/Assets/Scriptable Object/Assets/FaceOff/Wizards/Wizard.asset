@@ -11,4 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e85a938b9f0bc564aab773f12fa59f70, type: 3}
   m_Name: Wizard
   m_EditorClassIdentifier: 
-  ObjectList: []
+  ObjectList:
+  - {fileID: 11400000, guid: ac9cc458c4be89d45bcb3336a53a3a03, type: 2}
+  - {fileID: 11400000, guid: 93194fc84df53664c9af1dd259b1f6ab, type: 2}
+  - {fileID: 11400000, guid: 569f35da7656f24488dfc56cc70fcf51, type: 2}

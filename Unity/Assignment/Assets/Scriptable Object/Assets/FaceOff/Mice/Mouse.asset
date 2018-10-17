@@ -11,4 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e85a938b9f0bc564aab773f12fa59f70, type: 3}
   m_Name: Mouse
   m_EditorClassIdentifier: 
-  ObjectList: []
+  ObjectList:
+  - {fileID: 11400000, guid: 00f87602f06769443ba1da373c4813cf, type: 2}
+  - {fileID: 11400000, guid: 95a108ca96aee6347af12003a9d38295, type: 2}
+  - {fileID: 11400000, guid: 0c00b02ff7058d549936142aeecb7690, type: 2}
