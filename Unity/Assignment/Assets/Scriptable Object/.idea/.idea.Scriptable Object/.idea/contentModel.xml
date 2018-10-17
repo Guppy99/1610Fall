@@ -7,6 +7,7 @@
       <e p="Assets" t="Include">
         <e p="AddtoCollection.cs" t="Include" />
         <e p="AddValue.cs" t="Include" />
+        <e p="ChangeValue.cs" t="Include" />
         <e p="CharacterMover.cs" t="Include" />
         <e p="DestroyObject.cs" t="Include" />
         <e p="DivideValue.cs" t="Include" />
@@ -21,6 +22,7 @@
         <e p="PowerUp.cs" t="Include" />
         <e p="SubtractValue.cs" t="Include" />
         <e p="TriggerEventBehaviour.cs" t="Include" />
+        <e p="UpdateImageValue.cs" t="Include" />
         <e p="WhatCanSeeIt.cs" t="Include" />
       </e>
       <e p="Library" t="ExcludeRecursive" />
