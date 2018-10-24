@@ -15,6 +15,7 @@
         <e p="IfStatement.cs" t="Include" />
         <e p="Instancing.cs" t="Include" />
         <e p="LocalVars.cs" t="Include" />
+        <e p="Loops.cs" t="Include" />
         <e p="MouseEventBehavior.cs" t="Include" />
         <e p="MultiplyValue.cs" t="Include" />
         <e p="NameID.cs" t="Include" />
