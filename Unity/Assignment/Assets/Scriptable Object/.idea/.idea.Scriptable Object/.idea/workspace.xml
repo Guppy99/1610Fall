@@ -46,7 +46,7 @@
       <file leaf-file-name="LocalVars.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/LocalVars.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="306">
               <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
@@ -59,7 +59,6 @@
               <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding>
                 <marker date="1539637252000" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539637252000" expanded="true" signature="146:196" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -74,25 +73,6 @@
                 <marker date="1539638628000" expanded="false" signature="6:137" ph="..." />
                 <marker date="1539638628000" expanded="true" signature="204:327" ph="{...}" />
                 <marker date="1539638628000" expanded="true" signature="285:325" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IfStatement.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/IfStatement.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-              <folding>
-                <marker date="1538429682000" expanded="true" signature="6:92" ph="..." />
-                <marker date="1538429682000" expanded="true" signature="290:638" ph="{...}" />
-                <marker date="1538429682000" expanded="true" signature="315:346" ph="{...}" />
-                <marker date="1538429682000" expanded="true" signature="392:426" ph="{...}" />
-                <marker date="1538429682000" expanded="true" signature="443:481" ph="{...}" />
-                <marker date="1538429682000" expanded="true" signature="488:527" ph="{...}" />
-                <marker date="1538429682000" expanded="true" signature="555:593" ph="{...}" />
-                <marker date="1538429682000" expanded="true" signature="614:635" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -161,7 +141,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Loops.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Loops.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Loops.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -178,16 +158,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Instancing.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Instancing.cs">
+      <file leaf-file-name="GameStates.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Switch Enumerations/Assets/GameStates.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
               <folding>
-                <marker date="1539032474000" expanded="true" signature="6:44" ph="..." />
-                <marker date="1539032474000" expanded="true" signature="85:258" ph="{...}" />
-                <marker date="1539032474000" expanded="true" signature="135:254" ph="{...}" />
-                <marker date="1539032474000" expanded="true" signature="173:251" ph="{...}" />
+                <marker date="1540846656000" expanded="true" signature="24:176" ph="{...}" />
+                <marker date="1540846656000" expanded="true" signature="53:147" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwitchStatements.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Switch Enumerations/Assets/SwitchStatements.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+              <folding>
+                <marker date="1540846914000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1540846914000" expanded="true" signature="125:682" ph="{...}" />
+                <marker date="1540846914000" expanded="true" signature="281:680" ph="{...}" />
+                <marker date="1540846914000" expanded="true" signature="306:677" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -201,11 +194,13 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/MouseEventBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SubtractValue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Switch Enumerations/Assets/SwitchStatements.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/ObjectCollection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Loops.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TriggerEventBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/LocalVars.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Switch Enumerations/Assets/GameStates.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/DivideValue.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Instancing.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MultiplyValue.cs" root0="FORCE_HIGHLIGHTING" />
@@ -242,6 +237,8 @@
         <option value="$PROJECT_DIR$/Assets/ChangeValue.cs" />
         <option value="$PROJECT_DIR$/Assets/UpdateImageValue.cs" />
         <option value="$PROJECT_DIR$/Assets/Loops.cs" />
+        <option value="$PROJECT_DIR$/Assets/Switch Enumerations/Assets/GameStates.cs" />
+        <option value="$PROJECT_DIR$/Assets/Switch Enumerations/Assets/SwitchStatements.cs" />
       </list>
     </option>
   </component>
@@ -251,10 +248,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="295" />
     <option name="y" value="185" />
-    <option name="width" value="1143" />
+    <option name="width" value="1188" />
     <option name="height" value="743" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -264,6 +261,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="SolutionExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -271,12 +269,16 @@
               <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Scriptable Object" type="483dac07:UnityExplorerNode$Root" />
             </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Scriptable Object" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="SolutionExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -337,11 +339,12 @@
       <workItem from="1539636515910" duration="1850000" />
       <workItem from="1539809395701" duration="2611000" />
       <workItem from="1540413481051" duration="1771000" />
+      <workItem from="1540844721819" duration="2170000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27938000" />
+    <option name="totallyTimeSpent" value="30108000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -353,25 +356,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="295" y="185" width="1143" height="743" extended-state="0" />
+    <frame x="295" y="185" width="1188" height="743" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32883435" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32569557" />
       <window_info anchor="bottom" id="Unit Tests" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3481071" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24024823" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Unity" order="7" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="4" />
@@ -386,25 +390,25 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Unity" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2054002" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="bottom" id="Run" order="3" />
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="right" id="Errors In Solution" order="4" weight="0.32883435" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.32803467" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Unit Tests Coverage" order="0" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,20 +430,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/MultiplyValue.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehavior.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/NameID.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -787,7 +777,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/LocalVars.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="306">
           <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
@@ -798,7 +788,6 @@
           <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding>
             <marker date="1539637252000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539637252000" expanded="true" signature="146:196" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -881,6 +870,30 @@
             <marker date="1540414750000" expanded="true" signature="263:292" ph="{...}" />
             <marker date="1540414750000" expanded="true" signature="325:350" ph="{...}" />
             <marker date="1540414750000" expanded="true" signature="408:415" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Switch Enumerations/Assets/GameStates.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <marker date="1540846656000" expanded="true" signature="24:176" ph="{...}" />
+            <marker date="1540846656000" expanded="true" signature="53:147" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Switch Enumerations/Assets/SwitchStatements.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+          <folding>
+            <marker date="1540846914000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1540846914000" expanded="true" signature="125:682" ph="{...}" />
+            <marker date="1540846914000" expanded="true" signature="281:680" ph="{...}" />
+            <marker date="1540846914000" expanded="true" signature="306:677" ph="{...}" />
           </folding>
         </state>
       </provider>
