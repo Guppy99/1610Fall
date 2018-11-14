@@ -63,3 +63,7 @@ sysinfo.txt
 *.unitypackage
 
 *.DS_Store
+
+Weather/Weather
+
+Unity/

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\10808094\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_Scriptable Object.1886309189.00" t="ExcludeRecursive" />
+    <e p="E:\1610Fall\Unity\Assignment\Assets\Scriptable Object" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AddtoCollection.cs" t="Include" />
+        <e p="AddValue.cs" t="Include" />
+        <e p="ChangeValue.cs" t="Include" />
+        <e p="CharacterMover.cs" t="Include" />
+        <e p="DestroyObject.cs" t="Include" />
+        <e p="DivideValue.cs" t="Include" />
+        <e p="FloatData.cs" t="Include" />
+        <e p="IfStatement.cs" t="Include" />
+        <e p="Instancing.cs" t="Include" />
+        <e p="LocalVars.cs" t="Include" />
+        <e p="Loops.cs" t="Include" />
+        <e p="MouseEventBehavior.cs" t="Include" />
+        <e p="MultiplyValue.cs" t="Include" />
+        <e p="NameID.cs" t="Include" />
+        <e p="ObjectCollection.cs" t="Include" />
+        <e p="PowerUp.cs" t="Include" />
+        <e p="SubtractValue.cs" t="Include" />
+        <e p="TriggerEventBehaviour.cs" t="Include" />
+        <e p="UpdateImageValue.cs" t="Include" />
+        <e p="WhatCanSeeIt.cs" t="Include" />
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Scriptable Object.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
